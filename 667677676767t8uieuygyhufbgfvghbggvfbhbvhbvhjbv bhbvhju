@@ -1,0 +1,16 @@
+name ="Arthur"
+age = "11"
+weight = "167 sm"
+height = "60 kg"
+coins = 10 + 70
+
+
+
+
+
+print(f"привет, {name}. \nТЕБЕ {age} лет.\nРОСТ {height} \n {weight}")
+
+if coins>50:
+    print("cool")
+else:
+    print("yyy")
